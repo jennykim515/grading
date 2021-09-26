@@ -1,4 +1,8 @@
 # grading
+## Description:
+The program will handle all of the folders and files dealing with zipped files for grading. It will collect all assignments and labs into one location and after grading is completed, delete all files. 
+
+The purpose of this program is to speed up the grading process without worrying about folder management.
 
 ## How to use:
 Under TODO of main.py, fill in the path names for the Downloads folder and the desired Grading folder.
